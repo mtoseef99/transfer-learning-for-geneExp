@@ -15,7 +15,8 @@ hyperparameter values given in \<these files\>.
 These are the results for 24 experiments with baseline settings and
 hyperparameter tuned models. The author performed all experiments with 3-fold
 cross-validation, while we evaluated the model performance with also 5-fold and
-10-fold cross validation.
+10-fold cross validation. You can download the 5-fold and 1-fold split data
+[here](https://portland-my.sharepoint.com/:f:/g/personal/mtoseef2-c_my_cityu_edu_hk/Es5eSBmDs4FMk1Xy_eU8D58B7Nsmrv9uOWvbJUWpSm2lgg?e=J8rZHb).
 
 | **Drug**   | **Model**            | **Cross-Validation** | **Epochs** | **Avg AUROC** | **Avg APR** |
 |------------|----------------------|----------------------|------------|---------------|-------------|
